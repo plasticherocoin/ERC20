@@ -1,0 +1,1 @@
+These contracts provide the core functionality for the PTH bridge. They implement the logic to relay assets between DDPOS AND EVM-based blockchain networks. The contracts collect bridge validator's signatures to approve and facilitate relay operations.
